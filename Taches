@@ -1,8 +1,12 @@
 -une page de garde, affichant un message de bienvenue et les promotions en cours, et offrant une fonction de recherche ;
-  - Affichage promotions + page de garde : Pierre
+  - Affichage promotions + page de garde + Fond du site : Pierre
   - Fonction de recherche : A définir
 -une page de résultat de recherche, affichant une liste d’articles : A définir
 -une page détaillée d’article, incluant une description, la possibilité de laisser un commentaire, et d’ajouter l’article à son panier ;
-  - Article 
--une page de validation de commande, permettant de saisir les coordonnées de livraison ;
--une page “Qui sommes-nous ?” présentant le site.
+  - Article (image) + description : A definir
+  - Commentaire + Ajout panier : A definir
+-une page de validation de commande, permettant de saisir les coordonnées de livraison : A definir
+-une page “Qui sommes-nous ?” présentant le site : A definir
+
+
+Le mieux serait que chacun prenne au moins une grande partie et la réalise au plus vite.
