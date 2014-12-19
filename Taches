@@ -1,7 +1,7 @@
+- Base du site (Barre menu, bannière) : Pierre
 -une page de garde, affichant un message de bienvenue et les promotions en cours, et offrant une fonction de recherche ;
-  - Affichage promotions + page de garde + Fond du site : Pierre
-  - Barre de menu : Vahic
-  - Fonction de recherche : A définir
+  - Affichage promotions + page de garde : Pierre
+  - Fonction de recherche : Pierre
 -une page de résultat de recherche, affichant une liste d’articles : A définir
 -une page détaillée d’article, incluant une description, la possibilité de laisser un commentaire, et d’ajouter l’article à son panier ;
   - Article (image) + description : A definir
