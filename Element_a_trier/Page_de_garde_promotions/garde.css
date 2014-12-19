@@ -1,0 +1,49 @@
+#lastprice{
+text-decoration :line-through;
+color :red;
+}
+
+#img_promotion{
+width : 150px;
+height : 200px;
+}
+
+#list_promotion{
+margin:0;
+padding: 0;
+list-style-type: none;
+}
+
+#promotion.td{
+display:inline-block;
+outline:0; 
+}
+
+#promotion.td:focus{
+outline:0; 
+}
+#table_promotion{
+margin-left:auto;
+margin-right:auto;
+}
+
+.link_promotion{
+text-decoration:none;
+color:black;
+}
+
+
+.link_promotion:active{
+border: none;
+text-decoration:none;
+color:black;
+outline:none;
+}
+
+#promotion{
+text-align:center;
+td:hover{
+font-weight: bold;
+margin-left:auto;
+margin-right:auto;
+}
